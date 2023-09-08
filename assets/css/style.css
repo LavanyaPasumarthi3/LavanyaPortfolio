@@ -36,6 +36,10 @@ img {
     width: 100%;
 }
 
+#home-img{
+    border: 60px solid transparent;
+}
+
 .text-brand {
     color: var(--color-brand);
 }
